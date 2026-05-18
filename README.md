@@ -1,2 +1,7 @@
-# demo-e-f-propiedades
-Demo web para E &amp; F PROPIEDADES — diseñada por eterlab.
+# E & F PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
